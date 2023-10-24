@@ -25,7 +25,7 @@ My email address is _arturvoi@helsinki.fi_
 
 [Introduction to Linguistic Diversity and Digital Humanities](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2324-9df97501-21e6-4b8d-9de4-e91303f2ff71/LDA-301), fall 2023
   
-####**Random Fun Fact:** Did you know that a 'jiffy' is an actual unit of time for 1/100th of a second?
+#### **Random Fun Fact:** Did you know that a 'jiffy' is an actual unit of time for 1/100th of a second?
   
 ## Projects
 * [Naïve Bayes for text classification](https://docs.google.com/document/d/1oO0tMGtc-Xdq4qrhnAJCAOtXx9vSO5S3d9PnYdaZDcU/edit?usp=sharing) - unpublished literature review which was written for my application to study at the University of Helsinki. Yes, I wrote a whole paper to get in, talk about motivation;  
